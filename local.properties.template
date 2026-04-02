@@ -1,0 +1,6 @@
+# local.properties — copia este archivo como "local.properties" y ajusta la ruta
+# NO subas local.properties a control de versiones
+
+sdk.dir=/ruta/al/android/sdk
+# Ejemplo Linux/Mac: sdk.dir=/Users/TU_USUARIO/Library/Android/sdk
+# Ejemplo Windows:   sdk.dir=C\:\\Users\\TU_USUARIO\\AppData\\Local\\Android\\Sdk
